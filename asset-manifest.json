@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weather-ajay/static/css/main.3756daef.css",
+    "main.css": "/weather-ajay/static/css/main.106d292d.css",
     "main.js": "/weather-ajay/static/js/main.ef9f6309.js",
     "static/js/787.0b02395a.chunk.js": "/weather-ajay/static/js/787.0b02395a.chunk.js",
     "index.html": "/weather-ajay/index.html",
-    "main.3756daef.css.map": "/weather-ajay/static/css/main.3756daef.css.map",
+    "main.106d292d.css.map": "/weather-ajay/static/css/main.106d292d.css.map",
     "main.ef9f6309.js.map": "/weather-ajay/static/js/main.ef9f6309.js.map",
     "787.0b02395a.chunk.js.map": "/weather-ajay/static/js/787.0b02395a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3756daef.css",
+    "static/css/main.106d292d.css",
     "static/js/main.ef9f6309.js"
   ]
 }
